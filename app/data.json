@@ -1,0 +1,1834 @@
+{
+	"schedules": {
+		"BSDS-1A": [
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Santos",
+				"designation": "Lab 1",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "Math1",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 101",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [1]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "Math2",
+				"instructor": "Dr. Reyes",
+				"designation": "Room 102",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "GE 01",
+				"instructor": "Prof. Luna",
+				"designation": "Room 103",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "GE 07",
+				"instructor": "Dr. Cruz",
+				"designation": "Room 104",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Santos",
+				"designation": "Room 105",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSDS-1B": [
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Santos",
+				"designation": "Lab 2",
+				"periods": [
+					{
+						"start": 13,
+						"end": 16,
+						"days": [0]
+					},
+					{
+						"start": 7,
+						"end": 10,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "Math1",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 106",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "Math2",
+				"instructor": "Dr. Reyes",
+				"designation": "Room 107",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "GE 01",
+				"instructor": "Prof. Luna",
+				"designation": "Room 108",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "GE 07",
+				"instructor": "Dr. Cruz",
+				"designation": "Room 109",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Santos",
+				"designation": "Room 110",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSDS-1C": [
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Lim",
+				"designation": "Lab 3",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "Math1",
+				"instructor": "Prof. Torres",
+				"designation": "Room 111",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "Math2",
+				"instructor": "Dr. Wong",
+				"designation": "Room 112",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "GE 01",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 301",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "GE 07",
+				"instructor": "Dr. Santos",
+				"designation": "Room 302",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Luna",
+				"designation": "Room 303",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Cruz",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [0]
+					}
+				]
+			}
+		],
+		"BSDS-1D": [
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Lim",
+				"designation": "Lab 4",
+				"periods": [
+					{
+						"start": 13,
+						"end": 16,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 10,
+						"days": [5]
+					}
+				]
+			},
+			{
+				"code": "Math1",
+				"instructor": "Prof. Torres",
+				"designation": "Room 304",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "Math2",
+				"instructor": "Dr. Wong",
+				"designation": "Room 305",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "GE 01",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 306",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "GE 07",
+				"instructor": "Dr. Santos",
+				"designation": "Room 307",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Luna",
+				"designation": "Room 308",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Cruz",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [0]
+					}
+				]
+			}
+		],
+		"BSDS-2A": [
+			{
+				"code": "CC-103",
+				"instructor": "Dr. Lim",
+				"designation": "Lab 5",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "DS102",
+				"instructor": "Prof. Tan",
+				"designation": "Lab 6",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "Math4",
+				"instructor": "Dr. Wong",
+				"designation": "Room 309",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "Stat2",
+				"instructor": "Prof. Santos",
+				"designation": "Room 310",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "GE 06",
+				"instructor": "Dr. Garcia",
+				"designation": "Room 311",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "FIL 3",
+				"instructor": "Prof. Luna",
+				"designation": "Room 312",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 03",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSIT-1A": [
+			{
+				"code": "CC-100",
+				"instructor": "Prof. Alvarez",
+				"designation": "Lab 7",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Hernandez",
+				"designation": "Lab 1",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-NET01",
+				"instructor": "Dr. Luna",
+				"designation": "Lab 2",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "GE 04",
+				"instructor": "Prof. Santos",
+				"designation": "Room 101",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "GE 05",
+				"instructor": "Dr. Reyes",
+				"designation": "Room 102",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 103",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSIT-1B": [
+			{
+				"code": "CC-100",
+				"instructor": "Prof. Alvarez",
+				"designation": "Lab 3",
+				"periods": [
+					{
+						"start": 13,
+						"end": 16,
+						"days": [0]
+					},
+					{
+						"start": 7,
+						"end": 10,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "CC-101",
+				"instructor": "Dr. Hernandez",
+				"designation": "Lab 4",
+				"periods": [
+					{
+						"start": 13,
+						"end": 16,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 10,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-NET01",
+				"instructor": "Dr. Luna",
+				"designation": "Lab 5",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "GE 04",
+				"instructor": "Prof. Santos",
+				"designation": "Room 104",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "GE 05",
+				"instructor": "Dr. Reyes",
+				"designation": "Room 105",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "FIL 1",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 106",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 01",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSIT-2A": [
+			{
+				"code": "CC-103",
+				"instructor": "Dr. Torres",
+				"designation": "Lab 6",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-PF01",
+				"instructor": "Prof. Cruz",
+				"designation": "Lab 7",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-WS02",
+				"instructor": "Dr. Lim",
+				"designation": "Lab 1",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-MS01",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 107",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "GE 06",
+				"instructor": "Dr. Santos",
+				"designation": "Room 108",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "FIL 3",
+				"instructor": "Prof. Luna",
+				"designation": "Room 109",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "PATHFit 03",
+				"instructor": "Coach Martinez",
+				"designation": "GYM",
+				"periods": [
+					{
+						"start": 15,
+						"end": 17,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSIT-3A": [
+			{
+				"code": "IT-IM01",
+				"instructor": "Dr. Wong",
+				"designation": "Lab 2",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-IPT01",
+				"instructor": "Prof. Reyes",
+				"designation": "Lab 3",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-SA01",
+				"instructor": "Dr. Cruz",
+				"designation": "Lab 4",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [1]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-IAS01",
+				"instructor": "Prof. Santos",
+				"designation": "Lab 5",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-PT02",
+				"instructor": "Dr. Garcia",
+				"designation": "Lab 6",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "ELP",
+				"instructor": "Prof. Luna",
+				"designation": "Room 110",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					}
+				]
+			}
+		],
+		"BSIT-4A": [
+			{
+				"code": "IT-SIA01",
+				"instructor": "Dr. Torres",
+				"designation": "Lab 7",
+				"periods": [
+					{
+						"start": 7,
+						"end": 10,
+						"days": [0]
+					},
+					{
+						"start": 13,
+						"end": 16,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-SP01",
+				"instructor": "Prof. Cruz",
+				"designation": "Room 111",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [1]
+					},
+					{
+						"start": 9,
+						"end": 11,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-CAP02",
+				"instructor": "Dr. Lim",
+				"designation": "Lab 1",
+				"periods": [
+					{
+						"start": 13,
+						"end": 16,
+						"days": [1]
+					},
+					{
+						"start": 7,
+						"end": 10,
+						"days": [4]
+					}
+				]
+			},
+			{
+				"code": "IT-SW01",
+				"instructor": "Prof. Garcia",
+				"designation": "Room 112",
+				"periods": [
+					{
+						"start": 7,
+						"end": 9,
+						"days": [2]
+					}
+				]
+			},
+			{
+				"code": "IT-WS06",
+				"instructor": "Dr. Santos",
+				"designation": "Lab 2",
+				"periods": [
+					{
+						"start": 9,
+						"end": 11,
+						"days": [2]
+					},
+					{
+						"start": 13,
+						"end": 15,
+						"days": [3]
+					}
+				]
+			},
+			{
+				"code": "IT-WS07",
+				"instructor": "Prof. Luna",
+				"designation": "Lab 3",
+				"periods": [
+					{
+						"start": 13,
+						"end": 15,
+						"days": [2]
+					},
+					{
+						"start": 7,
+						"end": 9,
+						"days": [3]
+					}
+				]
+			}
+		]
+	},
+	"programs": {
+		"BSDS": [
+			{
+				"code": "CC-101",
+				"name": "Fundamentals of Programming",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "Math1",
+				"name": "Calculus 1",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "Math2",
+				"name": "Discrete Structures",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 01",
+				"name": "Understanding the Self",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 02",
+				"name": "Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "FIL 1",
+				"name": "Kontekswalisadong Komunikasyon sa Filipino",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 07",
+				"name": "Science, Technology and Society",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "PATHFit 01",
+				"name": "Movement Competency Training",
+				"units": 2,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "CC-102",
+				"name": "Intermediate Programming",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "DS101",
+				"name": "Introduction to Data Science",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "Math3",
+				"name": "Calculus 2",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "Stat1",
+				"name": "Introduction to Statistics",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "GE 04",
+				"name": "Mathematics in the Modern World",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "GE 05",
+				"name": "Purposive Communication",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "FIL 2",
+				"name": "Filipino sa Iba't Ibang Disiplina",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "PATHFit 02",
+				"name": "Exercise-based Fitness Activities",
+				"units": 2,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "CC-103",
+				"name": "Data Structures and Algorithms",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "DS102",
+				"name": "Programming for Data Science",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "Math4",
+				"name": "Linear Algebra",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "Stat2",
+				"name": "Computer-Aided Statistical Inference",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "GE 06",
+				"name": "Art Appreciation",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "GE 08",
+				"name": "Ethics",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "FIL 3",
+				"name": "Dalumat Ng/Sa Filipino",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "PATHFit 03",
+				"name": "Choice of Dance, Sports, Martial Arts, Group Exercise, Outdoor and Adventure Activities",
+				"units": 2,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "CC-104",
+				"name": "Information Management",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "DS103",
+				"name": "Algorithm and Complexity",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "DS104",
+				"name": "Artificial Intelligence",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "DS108",
+				"name": "Data Management Warehousing",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "ELP",
+				"name": "English for DSA Professionals",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "GE 03",
+				"name": "The Contemporary World",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "GE 09",
+				"name": "The Life and Works of Rizal",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "PATHFit 04",
+				"name": "Choice of Dance, Sports, Martial Arts, Group Exercise, Outdoor and Adventure Activities",
+				"units": 2,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "DS106",
+				"name": "Business Intelligence",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "DS107",
+				"name": "Machine Learning & Data Mining 1",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "DS105",
+				"name": "Data Visualization and Presentation",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "ELEC1",
+				"name": "Professional Elective 1",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "Stat3",
+				"name": "Computational Statistics",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "Stat4",
+				"name": "Exploratory Data Analysis",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "DS109",
+				"name": "Principle of Big Data",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "DS110",
+				"name": "Information Security and Data Privacy",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "DS111",
+				"name": "Special Topics in Data Science",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "RM1",
+				"name": "Research Methods",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "ELEC2",
+				"name": "Professional Elective 2",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "DSA 01",
+				"name": "Data Science in Agriculture 1",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "DS112",
+				"name": "Social Issues and Professional Practice",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "CAP1",
+				"name": "Capstone Project",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "ELEC3",
+				"name": "Professional Elective 3",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "ELEC4",
+				"name": "Professional Elective 4",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "DSA 02",
+				"name": "Data Science in Agriculture 2",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "OJT/IZN",
+				"name": "On the Job Training/International Student Mobility (In-Bound, Out-Bound)",
+				"units": 6,
+				"semester": 1,
+				"year": 4
+			}
+		],
+		"BSIT": [
+			{
+				"code": "CC-100",
+				"name": "Introduction to Computing",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "CC-101",
+				"name": "Computer Programming 1, Fundamentals",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "IT-NET01",
+				"name": "Networking 1, Fundamentals",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 04",
+				"name": "Mathematics in the Modern World",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 05",
+				"name": "Purposive Communication",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "FIL 1",
+				"name": "Kontekswalisadong Komunikasyon sa Filipino",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "GE 07",
+				"name": "Science, Technology and Society",
+				"units": 3,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "PATHFit 01",
+				"name": "Movement Competency Training",
+				"units": 2,
+				"semester": 1,
+				"year": 1
+			},
+			{
+				"code": "CC-103",
+				"name": "Data Structures and Algorithms",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "IT-PF01",
+				"name": "Object-Oriented Programming 1",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "IT-WS02",
+				"name": "Web Systems and Technologies 2",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "IT-MS01",
+				"name": "Discrete Mathematics",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "GE 06",
+				"name": "Art Appreciation",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "GE 08",
+				"name": "Ethics",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "FIL 3",
+				"name": "Dalumat Ng/Sa Filipino",
+				"units": 3,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "PATHFit 03",
+				"name": "Choice of Dance, Sports, Martial Arts, Group Exercise, Outdoor and Adventure Activities",
+				"units": 2,
+				"semester": 1,
+				"year": 2
+			},
+			{
+				"code": "IT-IM01",
+				"name": "Advanced Database Systems",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "IT-IPT01",
+				"name": "Integrative Programming and Technologies 1",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "IT-SA01",
+				"name": "Systems Administration and Maintenance",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "IT-IAS01",
+				"name": "Information Assurance and Security 1",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "IT-PT02",
+				"name": "Mobile App Development",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "ELP",
+				"name": "English for Information Technologist",
+				"units": 3,
+				"semester": 1,
+				"year": 3
+			},
+			{
+				"code": "IT-SIA01",
+				"name": "Systems Integration and Architecture",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "IT-SP01",
+				"name": "Social and Professional Issues",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "IT-CAP02",
+				"name": "Capstone Project and Research 2",
+				"units": 3,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "IT-SW01",
+				"name": "Seminars and Workshops",
+				"units": 2,
+				"semester": 1,
+				"year": 4
+			},
+			{
+				"code": "IT-WS06",
+				"name": "Web Digital Media",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "WST"
+			},
+			{
+				"code": "IT-WS07",
+				"name": "Mobile Application Technology",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "WST"
+			},
+			{
+				"code": "IT-IM05",
+				"name": "Data Warehousing and Data Mining",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "DST"
+			},
+			{
+				"code": "IT-IM06",
+				"name": "Geographic Information Systems",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "DST"
+			},
+			{
+				"code": "IT-NET06",
+				"name": "Network Application Areas",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "NST"
+			},
+			{
+				"code": "IT-NET07",
+				"name": "Network Management",
+				"units": 3,
+				"year": 4,
+				"semester": 1,
+				"major": "NST"
+			},
+			{
+				"code": "CC-102",
+				"name": "Computer Programming 2, Intermediate",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "IT-NET02",
+				"name": "Networking 1, Advanced",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "IT-WS01",
+				"name": "Web Systems and Technologies 1",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "GE 01",
+				"name": "Understanding the Self",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "GE 02",
+				"name": "Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "FIL 2",
+				"name": "Filipino sa Iba't Ibang Disiplina",
+				"units": 3,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "PATHFit 02",
+				"name": "Exercise-based Fitness Activities",
+				"units": 2,
+				"semester": 2,
+				"year": 1
+			},
+			{
+				"code": "CC-104",
+				"name": "Information Management",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "CC-105",
+				"name": "Applications Development and Emerging Technologies",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "IT-PF02",
+				"name": "Object-Oriented Programming 2",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "IT-HCI01",
+				"name": "Introduction to Human Computer Interaction",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "IT-MS02",
+				"name": "Quantitative Methods",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "GE 03",
+				"name": "The Contemporary World",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "GE 09",
+				"name": "The Life and Works of Rizal",
+				"units": 3,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "PATHFit 04",
+				"name": "Choice of Dance, Sports, Martial Arts, Group Exercise, Outdoor and Adventure Activities",
+				"units": 2,
+				"semester": 2,
+				"year": 2
+			},
+			{
+				"code": "IT-IAS02",
+				"name": "Information Assurance and Security 2",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "IT-CAP01",
+				"name": "Capstone Project and Research 1",
+				"units": 3,
+				"semester": 2,
+				"year": 3
+			},
+			{
+				"code": "IT-WS03",
+				"name": "Web Systems and Technologies 3",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "WST"
+			},
+			{
+				"code": "IT-WS04",
+				"name": "Web Systems Vulnerabilities",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "WST"
+			},
+			{
+				"code": "IT-WS05",
+				"name": "Web Security",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "WST"
+			},
+			{
+				"code": "IT-IM02",
+				"name": "Database Systems Technology 1 (SQL)",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "DST"
+			},
+			{
+				"code": "IT-IM03",
+				"name": "Database Systems Technology 2 (NoSQL)",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "DST"
+			},
+			{
+				"code": "IT-IM04",
+				"name": "Database Security",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "DST"
+			},
+			{
+				"code": "IT-NET03",
+				"name": "Network Systems Technology",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "NST"
+			},
+			{
+				"code": "IT-NET04",
+				"name": "Routing and Switching",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "NST"
+			},
+			{
+				"code": "IT-NET05",
+				"name": "Network Security",
+				"units": 3,
+				"semester": 2,
+				"year": 3,
+				"major": "NST"
+			},
+			{
+				"code": "IT-OJT01",
+				"name": "Practicum (OJT)",
+				"units": 6,
+				"semester": 2,
+				"year": 4
+			}
+		]
+	}
+}
