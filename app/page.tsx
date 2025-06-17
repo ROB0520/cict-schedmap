@@ -12,7 +12,7 @@ export default function Home() {
           alt="AleczR Logo"
           className="h-12 md:h-24 w-auto"
         />
-        <h1 className="text-4xl font-extrabold tracking-tight scroll-m-20 lg:text-5xl">
+        <h1 className="text-4xl font-extrabold tracking-tight leading-7 scroll-m-20 lg:text-5xl w-fit flex flex-col sm:flex-row items-center gap-1">
           <span className="text-sky-500">CICT</span> SchedMap
         </h1>
       </div>

@@ -460,10 +460,10 @@ export default function Schedule() {
 																				courseName = courseName
 																					.split(' ')
 																					.map((word) => {
-																						if (word.length >= 17) {
+																						if (word.length >= 10) {
 																							const parts = [];
-																							for (let i = 0; i < word.length; i += 12) {
-																								parts.push(word.substring(i, i + 12));
+																							for (let i = 0; i < word.length; i += 7) {
+																								parts.push(word.substring(i, i + 7));
 																							}
 																							return parts.join('\u00AD'); // \u00AD is the unicode for &shy;
 																						} else {
@@ -492,10 +492,10 @@ export default function Schedule() {
 																				designator = designator
 																					.split(' ')
 																					.map((word) => {
-																						if (word.length >= 17) {
+																						if (word.length >= 10) {
 																							const parts = [];
-																							for (let i = 0; i < word.length; i += 12) {
-																								parts.push(word.substring(i, i + 12));
+																							for (let i = 0; i < word.length; i += 7) {
+																								parts.push(word.substring(i, i + 7));
 																							}
 																							return parts.join('\u00AD');
 																						} else {
