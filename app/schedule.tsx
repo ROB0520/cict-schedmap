@@ -52,7 +52,8 @@ export default function Schedule() {
 			case 'venue':
 				const venueFilteredData = Object.entries(schedules)
 					.flatMap(([blockName, courses]) =>
-						courses.filter(course => course.designation.toLowerCase().includes(filterValue.toLowerCase()))
+						courses
+							.filter(course => course.designation.toLowerCase().includes(filterValue.toLowerCase()))
 							.map(course => ({
 								...course,
 								designation: blockName,
@@ -160,7 +161,7 @@ export default function Schedule() {
 										{(() => {
 											const allVenues = Array.from(new Set(
 												Object.values(schedules).flatMap(courses => courses.map(course => course.designation))
-											));
+											)).filter(v => v.toLowerCase() !== 'ilp');
 
 											// Group venues
 											// Group venues: rooms by floor, then labs, then others, each as { name, venues }
