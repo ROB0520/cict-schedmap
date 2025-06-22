@@ -249,7 +249,7 @@ export default function Schedule() {
 						Set a filter to view the schedule.
 					</div>
 					:
-					<div className="overflow-auto border bg-card rounded-lg w-fit max-w-full max-h-[80vh] sm:max-h-none">
+					<div className="overflow-auto border bg-card rounded-lg w-fit max-w-full sm:max-h-none">
 						<div className="grid min-w-fit max-w-full sm:max-w-5xl" style={{
 							gridTemplateColumns: `auto repeat(${(() => {
 								// Calculate which days are actually used and trim only first/last empty days
